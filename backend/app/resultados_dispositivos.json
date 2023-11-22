@@ -1,0 +1,68 @@
+[
+    {
+        "id": 132,
+        "name": "DC FW",
+        "manufacturer": "fortigate",
+        "primary_ip4": "0.0.0.0"
+    },
+    {
+        "id": 128,
+        "name": "SI4EM",
+        "manufacturer": "Cisco",
+        "primary_ip4": "0.0.0.0"
+    },
+    {
+        "id": 123,
+        "name": "ST-SW-01",
+        "manufacturer": "Cisco",
+        "primary_ip4": "0.0.0.0"
+    },
+    {
+        "id": 131,
+        "name": "ST-SW-02",
+        "manufacturer": "Cisco",
+        "primary_ip4": "0.0.0.0"
+    },
+    {
+        "id": 124,
+        "name": "Spine103",
+        "manufacturer": "Cisco",
+        "primary_ip4": "0.0.0.0"
+    },
+    {
+        "id": 130,
+        "name": "feb fire",
+        "manufacturer": "Cisco",
+        "primary_ip4": "0.0.0.0"
+    },
+    {
+        "id": 127,
+        "name": "leaf201",
+        "manufacturer": "Cisco",
+        "primary_ip4": "0.0.0.0"
+    },
+    {
+        "id": 125,
+        "name": "leaf202",
+        "manufacturer": "Cisco",
+        "primary_ip4": "0.0.0.0"
+    },
+    {
+        "id": 133,
+        "name": "patch-1",
+        "manufacturer": "rital",
+        "primary_ip4": "0.0.0.0"
+    },
+    {
+        "id": 134,
+        "name": "patch-2",
+        "manufacturer": "rital",
+        "primary_ip4": "0.0.0.0"
+    },
+    {
+        "id": 135,
+        "name": "wan FW",
+        "manufacturer": "fortigate",
+        "primary_ip4": "0.0.0.0"
+    }
+]
